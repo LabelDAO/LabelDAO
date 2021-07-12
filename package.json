@@ -1,0 +1,24 @@
+{
+  "name": "labeldao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LabelDAO/LabelDAO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LabelDAO/LabelDAO/issues"
+  },
+  "homepage": "https://github.com/LabelDAO/LabelDAO#readme",
+  "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "^4.2.0",
+    "prettier": "^2.3.2",
+    "prettier-plugin-solidity": "^1.0.0-beta.15"
+  }
+}
